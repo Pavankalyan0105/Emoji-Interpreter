@@ -1,0 +1,23 @@
+body{
+  background: #03203C;
+  color:#12B0E8;
+  font-size: 1.6rem;
+  font-weight: 600;
+  margin-top:10rem;
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+input{
+  width: 6rem;
+  height: 2rem;
+}
+
+button{
+  border-radius: 1rem;
+  margin:0.3rem;
+  background: rgb(66, 100, 173);
+}
